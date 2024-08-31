@@ -1,0 +1,19 @@
+web-security-toolkit/
+├── tools/
+│   ├── scanner/
+│   │   └── scanner.py
+│   ├── headers/
+│   │   └── headers.py
+│   ├── password/
+│   │   ├── password-tester.js
+│   │   └── package.json
+│   ├── ssl/
+│   │   └── ssl-checker.py
+│   └── waf/
+│       └── waf-tester.py
+├── docs/
+│   ├── overview.md
+│   ├── usage.md
+├── requirements.txt
+├── README.md
+└── LICENSE

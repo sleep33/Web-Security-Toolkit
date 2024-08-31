@@ -1,0 +1,13 @@
+{
+    "name": "password-tester",
+    "version": "1.0.0",
+    "description": "A simple password strength tester using zxcvbn",
+    "main": "password-tester.js",
+    "scripts": {
+      "test": "node password-tester.js"
+    },
+    "dependencies": {
+      "zxcvbn": "^4.4.2"
+    }
+  }
+  
